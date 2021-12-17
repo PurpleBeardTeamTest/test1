@@ -5,3 +5,4 @@
 # test form terminal
 # test browser 3
 # test browser admin
+# test vscode admin
